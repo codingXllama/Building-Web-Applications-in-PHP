@@ -1,0 +1,4 @@
+var_dump()
+
+- you can print false, gives you more info than print_r()
+- it prints both the type and value
